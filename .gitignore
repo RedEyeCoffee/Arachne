@@ -9,3 +9,6 @@ __pycache__
 # files
 *.json
 novels
+
+# packeges
+*.egg-info/
